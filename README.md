@@ -7,10 +7,6 @@ This project is an Interactive Rating Component that allows users to provide fee
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -35,10 +31,3 @@ The component is designed to be responsive and visually appealing, with hover an
 - **CSS**: For styling the component, including responsiveness and interactive states.
 - **JavaScript**: For handling user interactions and dynamic updates.
 
-## Setup and Installation
-
-To set up and run this project locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/interactive-rating-component.git
