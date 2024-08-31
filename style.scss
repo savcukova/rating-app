@@ -77,11 +77,10 @@ body {
             color: $light-grey;
             font-weight: bold;
 
-            &:hover{
+            &:active{
                 background-color: $white;
                 color: $very-dark-blue;
             }
-        }
     }
 
     .submit {
